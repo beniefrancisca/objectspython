@@ -18,3 +18,6 @@ class Movie:
     # let's try to add a method `print_info()` here:
     def print_info(self):
         print(f"<<{self.name}>> by {self.director}")
+
+
+        5
